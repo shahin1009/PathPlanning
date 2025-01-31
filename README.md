@@ -1,4 +1,4 @@
 # PathPlanning
 RRT variants and one PRM
 
-![Alt Text](results/Astar-map1.png)
+<img src="results/Astar-map1.png" alt="Robot Path" width="500">
