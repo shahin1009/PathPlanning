@@ -10,9 +10,6 @@ Here are some images showcasing the results of the **A* Algorithm** applied to v
 <img src="results/Astar-map2.png" alt="Astar-map2" width="500">
 **Astar-map2**: Pathfinding result on Map 2.
 
-<img src="results/Astar-map3.png" alt="Astar-map3" width="500">
-**Astar-map3**: Pathfinding result on Map 3.
-
 <img src="results/Astar-map4.png" alt="Astar-map4" width="500">
 **Astar-map4**: Pathfinding result on Map 4.
 
